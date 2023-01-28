@@ -52,6 +52,10 @@ text-align: left;
 
 }
 
+s {
+  text-decoration: line-through;
+}
+
 .btn {
   -webkit-border-radius: 7;
   -moz-border-radius: 7;
